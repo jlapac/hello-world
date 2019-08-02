@@ -2,4 +2,7 @@ This is a test Git document.
 
 First is add, then you commit. Once you commit, changes are recorded.
 
+Every time you make a change, you need to add, then commit, so changes will be recorded.
+
+
 
