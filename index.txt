@@ -4,5 +4,13 @@ First is add, then you commit. Once you commit, changes are recorded.
 
 Every time you make a change, you need to add, then commit, so changes will be recorded.
 
+You cannot commit until you add.
+
+I have added the fit to GitHub.
+
+
+
+
+
 
 
